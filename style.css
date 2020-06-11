@@ -90,9 +90,7 @@ textarea:focus {
   .output.row span {
     font-size: 1.3rem;
   }
-  .keywords ul {
-    font-size: 1.2rem;
-  }
+  
 }
 
 @media (max-width: 600px) {
@@ -115,26 +113,5 @@ textarea:focus {
   .output.row span {
     font-size: 2rem;
   }
-  #readability {
-    width: 100%;
-    font-size: 1.6rem;
-    font-weight: 400;
-  }
-  .keywords {
-    margin: 10% auto;
-  }
-  .keywords ul {
-    font-weight: 400;
-    border: none;
-    font-size: 1.8rem;
-    background-color: #F9F9F9;
-    margin: 5% 0;
-  }
-  .keywords li {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    margin: 2% auto;
-    border: 1px solid #DDD;
-  }
+  
 }
